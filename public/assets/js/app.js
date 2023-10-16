@@ -59,7 +59,7 @@ $(document).ready(() => {
 
         // Populate dummy
         for (let i = 0; i < 30; i++) {
-            addContent("<div style='text-align:center;'>Welcome 🥳🥳🥳</div>");
+            addContent("<div style='text-align:center;'>Bienvenido 🥳🥳🥳</div>");
         }
 
         // Load game
